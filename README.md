@@ -37,7 +37,8 @@ Each file is named with the appropriate file extension and includes all necessar
 27. COBOL  
 28. MATLAB  
 29. SQL (PL/SQL)  
-30. Assembly (NASM)  
+30. Assembly (NASM)
+31. Befunge  
 
 ---
 
@@ -61,7 +62,6 @@ If you know any of these or others, please feel free to contribute a "Hello, Wor
 - Scheme  
 - Common Lisp  
 - Q#  
-- Befunge  
 - Brainfuck  
 - Prolog  
 - OCaml  
