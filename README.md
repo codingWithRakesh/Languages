@@ -39,6 +39,7 @@ Each file is named with the appropriate file extension and includes all necessar
 29. SQL (PL/SQL)  
 30. Assembly (NASM)
 31. Befunge  
+32. Solidity 
 
 ---
 
